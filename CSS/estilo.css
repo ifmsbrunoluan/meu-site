@@ -116,6 +116,11 @@ main figure img{
     height: 400px;
     border-radius: 200px;
     margin-bottom: 6%;
-    border: 1px solid #00e0ff
+    border: 1px solid #00e0ff;
+    transition: 0.2s ease-in-out;
+    cursor: pointer;
+}
+main figure img:hover{
+    box-shadow: 0px 0px 8px #00e0ff;
     
 }
