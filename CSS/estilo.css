@@ -98,7 +98,7 @@ main .techs .cards-container .card:nth-child(4){
     margin-right: 0em;
 }
 main .techs .cards-container .card:hover{
-    box-shadow: 0px 0px 80px #00e0ff;
+    box-shadow: 0px 0px 8px #00e0ff;
 }
 main .main-content .techs .cards-container .card img{
     width: 60%;
@@ -121,6 +121,5 @@ main figure img{
     cursor: pointer;
 }
 main figure img:hover{
-    box-shadow: 0px 0px 8px #00e0ff;
-
+    box-shadow: 0px 0px 8000px #00e0ff;
 }
