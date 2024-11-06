@@ -87,6 +87,14 @@ main .techs .cards-container .card{
     background-color: #eee;
     border-radius: 8px;
     margin-right: 1.8em;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.2s ease-in-out;
+}
+main .techs .cards-container .card:nth-child(4){
+    margin-right: 0em;
 }
 main .techs .cards-container .card img{
     width: 60%;
